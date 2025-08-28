@@ -1,38 +1,50 @@
-# 👋 Olá, seja bem-vindo(a) ao meu perfil!
+# 👨‍💻 Hey, eu sou Hadriel
 
-Sou estudante do **[nome da instituição]**, atualmente cursando **[nome do curso]**.  
-Aqui você encontrará projetos, exercícios e materiais relacionados ao meu aprendizado em programação e tecnologia.
-
----
-
-## 🎓 Sobre mim
-- 📚 Estudante de **[nome do curso/disciplina]**
-- 🏫 Instituição: **[nome da escola/faculdade]**
-- 💻 Interesse em: **[ex.: programação, banco de dados, redes]**
-- 📈 Objetivo: **aprender e compartilhar conhecimento**
+Sou estudante do **Instituto Federal**, cursando **informática - Ensino Médio Integrado**.  
+Estou estudando **desenvolvimento de software, programação e inovação tecnológica**.
 
 ---
 
-## 🛠️ Tecnologias em aprendizado
-- **Linguagens:** Python, Java, C  
-- **Banco de Dados:** MySQL, PostgreSQL  
-- **Ferramentas:** Git, GitHub, VS Code  
+## ⚙️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="HTML logo" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" alt="Java logo" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="Python logo" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50" width="50" alt="Eclipse IDE logo" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" alt="VSCode logo" />  
+
+</div>
 
 ---
 
-## 📂 Projetos em destaque
-- 🔹 [Nome do projeto 1](link) – breve descrição  
-- 🔹 [Nome do projeto 2](link) – breve descrição  
-- 🔹 [Nome do projeto 3](link) – breve descrição  
+## 🧩 Sobre
+
+- Aprendendo programação em Java, Python e HTML
+- EclipseIDE, VScode, MySQL 
+- Aqui estão meus projetos acadêmicos 
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&hide_title=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" />
+</div>
 
 ---
 
 ## 📫 Contato
-- ✉️ Email institucional: **seuemail@dominio.edu.br**  
-- 🌐 LinkedIn: [Seu nome](https://linkedin.com/in/seunome)  
-- 🖥️ GitHub Pages/Portfólio: [link se tiver]  
+
+- GitHub: [@HadrielZ10](https://github.com/HadrielZ10)  
+- Email: Jose.hadriel10@aluno.ifce.edu.br 
 
 ---
 
-## 📜 Nota
-Este perfil é voltado para fins **educacionais e institucionais**, reunindo atividades, exercícios e projetos desenvolvidos durante minha formação.
+> "O Senhor é minha força." – **Êxodo 15:2** ⚡
+
+---
+
+<img src="https://cdn.discordapp.com/attachments/1399707078360174643/1410407771056242778/image0.gif?ex=68b0e818&is=68af9698&hm=49c519cd33ab95c0964b279783385e0c2000fab1422cb33d2b9ec204d353caa2&" alt="GIF animado" width="100%" />
