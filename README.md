@@ -30,8 +30,8 @@ Estou estudando **desenvolvimento de software, programação e inovação tecnol
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&hide_title=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=HadrielZ10&show_icons=true&theme=radical&hide_title=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadrielZ10&layout=compact&theme=radical" />
 </div>
 
 ---
