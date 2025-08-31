@@ -39,11 +39,11 @@ Estou estudando **desenvolvimento de software, programação e inovação tecnol
 ## 📫 Contato
 
 - GitHub: [@HadrielZ10](https://github.com/HadrielZ10)  
-- Email: Jose.hadriel10@aluno.ifce.edu.br 
+- Email: jose.hadriel10@aluno.ifce.edu.br 
 
 ---
 
-> "O Senhor é minha força." – **Êxodo 15:2** ⚡
+> "Lâmpada para os meus pés é a tua palavra, e luz para o meu caminho" – **Salmos 119:105** ⚡
 
 ---
 
